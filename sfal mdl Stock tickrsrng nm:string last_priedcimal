@@ -1,0 +1,12 @@
+=> [32m#<IEX::Api::Client:0x00005571f0bb8f48[0m
+ @ca_file[32m=[0m[31m[1;31m"[0m[31m/usr/lib/ssl/cert.pem[1;31m"[0m[31m[0m,
+ @ca_path[32m=[0m[31m[1;31m"[0m[31m/usr/lib/ssl/certs[1;31m"[0m[31m[0m,
+ @endpoint[32m=[0m[31m[1;31m"[0m[31mhttps://cloud.iexapis.com/v1[1;31m"[0m[31m[0m,
+ @logger[32m=[0m[32m#<Module:0x00005571f0bb8890>[0m,
+ @open_timeout[32m=[0m[1;36mnil[0m,
+ @proxy[32m=[0m[1;36mnil[0m,
+ @publishable_token[32m=[0m[31m[1;31m"[0m[31mTpk_6e93e47725b34ddf8839ad2a528b4acf[1;31m"[0m[31m[0m,
+ @referer[32m=[0m[1;36mnil[0m,
+ @secret_token[32m=[0m[31m[1;31m"[0m[31mTsk_24e13d892d4741a3bf69c2607fe4161b[1;31m"[0m[31m[0m,
+ @timeout[32m=[0m[1;36mnil[0m,
+ @user_agent[32m=[0m[31m[1;31m"[0m[31mIEX Ruby Client/1.4.0[1;31m"[0m[31m[0m[32m>[0m
